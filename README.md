@@ -1,0 +1,2 @@
+# WSAInstallINDO
+cara install WSA
